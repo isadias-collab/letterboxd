@@ -1,0 +1,130 @@
+body {
+  background-color: #2d3540;
+  margin: 0;
+  footer 
+  margin-top: 7px;
+  padding-bottom: 70px; 
+}
+ul {
+  list-style: none; 
+  padding: 0; 
+  transition: all 0.8s;
+  justify-content: space-between;
+  width: 45%;
+}
+
+nav {
+  background-color: #14181c;
+  padding: 0 20px; 
+
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1,
+p {
+  color: #747474; 
+  font-family: sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  margin: 10;
+  padding: 0;
+}
+
+nav,
+ul {
+  display: flex;
+  flex-direction: row;
+
+}
+
+nav p:hover {
+  cursor: pointer; 
+  color: #fff;
+}
+
+section p {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: #fafafa;
+}
+input {
+  border-radius: 50px;
+  padding: 4x 6px;
+  color: #676767;
+  background-color: #676767;
+}
+li {
+  justify-content: space-between;
+}
+i {
+  color: #747474;
+}
+i:hover {
+  cursor: pointer; 
+  color: #fff;
+}
+.social icons {
+  margin-right: 15px;
+}
+
+.nav-icons i {
+  margin-left: 10px;
+  display: ;
+ 
+}
+
+.footer-container{
+    height: 100%;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.footer-texto{
+    width: 70%;
+}
+.get-started-btn {
+  display: inline-block;      
+  background-color: #28a745;   
+  color: #fff;             
+  padding: 6px 12px;         
+  border-radius: 4px;         
+  text-decoration: none;       
+  font-weight: bold;
+  transition: background 0.3s;
+  cursor: pointer;
+  font-size: small;
+}
+
+.get-started-btn:hover {
+  background-color: #218838;   
+}
+
+.container {
+  display: flex;
+  justify-content: center;  
+  align-items: center;      
+}
+section{
+  justify-content: center;   
+  text-align: center;  
+  color: #747474;  
+  font-family: Arial, Helvetica, sans-serif;
+}
+h5 i {
+  font-size: 17px;
+}
+footer ul {
+  display: flexbox;      
+  flex-wrap: wrap;        
+  gap: 2px;              
+}
+.footer-texto{
+    flex-wrap: nowrap;
+    width: 75%;
+}
