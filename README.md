@@ -17,5 +17,8 @@ ______________________________________________________
 
 Antes de codificar, fiz um protótipo no Figma para planejar cores, fontes e disposição dos elementos, facilitando a implementação. No CSS, ajustei a centralização, cores, fontes, tamanhos e responsividade, garantindo que o layout ficasse organizado e funcional.
 
+<img width="448" height="374" alt="image" src="https://github.com/user-attachments/assets/ec1bf1fe-de34-4654-924a-4cae7d2e85cf" />
+
+
 
 <img src="https://media.tenor.com/7KgVQj-JmY4AAAAM/carmy-berzatto-letterboxd.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 216px; margin: 0px; width: 220px;" alt="Letterboxd Film Nerd GIF - Letterboxd Film nerd Movie buff - Discover &amp;  Share GIFs" jsname="kn3ccd">
