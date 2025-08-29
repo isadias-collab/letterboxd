@@ -3,6 +3,7 @@
 
 O objetivo desta atividade foi desenvolver uma reprodução de interface web, na qual escolhi o site Letterboxd, nela apliquei conhecimentos de HTML e CSS para estruturar e estilizar os elementos da página. 
 
+<img src="https://media.tenor.com/7KgVQj-JmY4AAAAM/carmy-berzatto-letterboxd.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 216px; margin: 0px; width: 220px;" alt="Letterboxd Film Nerd GIF - Letterboxd Film nerd Movie buff - Discover &amp;  Share GIFs" jsname="kn3ccd">
 ______________________________________________________
 
 👩‍💻Desenvolvimento - 
@@ -21,4 +22,4 @@ Antes de codificar, fiz um protótipo no Figma para planejar cores, fontes e dis
 
 
 
-<img src="https://media.tenor.com/7KgVQj-JmY4AAAAM/carmy-berzatto-letterboxd.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 216px; margin: 0px; width: 220px;" alt="Letterboxd Film Nerd GIF - Letterboxd Film nerd Movie buff - Discover &amp;  Share GIFs" jsname="kn3ccd">
+
